@@ -1,5 +1,5 @@
 set password in folder when 3 times wrong password auto delete folder in windows 10
 
-![Alt text](URL "Folder Locker 05-04-2024 09_17_54.png")
-![Alt text](URL "Folder Locker 05-04-2024 09_18_31.png.png")
-![Alt text](URL "Folder Locker 05-04-2024 09_19_34.png.png")
+![img](URL "Folder Locker 05-04-2024 09_17_54.png")
+![img](URL "Folder Locker 05-04-2024 09_18_31.png.png")
+![img](URL "Folder Locker 05-04-2024 09_19_34.png.png")
