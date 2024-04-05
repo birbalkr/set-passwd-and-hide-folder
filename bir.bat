@@ -25,12 +25,12 @@ echo put in the key to Unlock the lock
 
 if %i%==%n% goto Del
 set /a i=%i%+1
+ 
+set/p "pass=>  password :- "
 
-set/p "pass=>password"
 
 
-
-if NOT %pass%==123456 goto FAIL
+if NOT %pass%==Admin goto FAIL
 
 attrib -h -s "Control Panel.{21EC2020-3AEA-1069-A2DD-08002B30309D}"
 
